@@ -1,0 +1,2 @@
+# Koriym.PhpSkeleton test
+
